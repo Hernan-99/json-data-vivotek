@@ -1,5 +1,28 @@
 {
-  "name": "John",
-  "age": 30,
-  "city": "New York"
+  "data": {
+    "ip_y_box": {
+      "tipo": "Cámaras IP y Box",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "Cámara IP Vivotek ip8160",
+          "descripcion": "2MP, 8M IR, AEC, PoE"
+        }
+      ]
+    },
+    "gran_angular": {},
+    "kit_lectura_patentes": {},
+    "parlante_vox_ip": {},
+    "solucion_movil": {},
+    "reconocimiento_facial": {},
+    "camaras_termicas": {},
+    "switches": {},
+    "accesorios": {},
+    "cms": {},
+    "bullet": {},
+    "domos_fijos": {},
+    "domos_ptz": {},
+    "nvr": {}
+  }
 }
