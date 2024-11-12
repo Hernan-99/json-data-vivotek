@@ -11,7 +11,83 @@
         }
       ]
     },
-    "gran_angular": {},
+    "gran_angular": {
+      "tipo": "Cámaras Gran Angular",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "MS9390-EHV-V2",
+          "descripcion": "Cámara de red panorámica multisensor",
+          "caracteristicas_principales": {
+            "resolucion": "Resolución de 8 megapíxeles",
+            "tecnologia_de_compresion": "Tecnología de compresión H.265",
+            "vista_panoramica": "Vista panorámica de 180°",
+            "fps": "30 fps @ 8M",
+            "alineamiento": "Alineamiento de vídeo que le permite una imagen fluida",
+            "smart": "Smart Stream III para optimizar la eficiencia del ancho de banda",
+            "carcasa": "Carcasa resistente a intemperies IP66 y antivandalismo IK10",
+            "iluminadores": "Iluminadores IR hasta 20M",
+            "microfono": "Micrófono interno",
+            "snv": "SNV (Visibilidad Nocturna Suprema)",
+            "reduccion_ruido": "Reducción de ruido 3D para condiciones de baja iluminación",
+            "renuras": "Ranura integrada para tarjetas MicroSD/SDHC/SDXC",
+            "ndaa": "NDAA"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": "https://drive.google.com/file/d/1p4Y7ac5K4vZAhYBfTafBe-rsKdeJuG7W/view?usp=sharing"
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "nombre": "Copia MS9390-EHV-V2",
+          "descripcion": "Cámara de red panorámica multisensor",
+          "caracteristicas_principales": {
+            "resolucion": "Resolución de 8 megapíxeles",
+            "tecnologia_de_compresion": "Tecnología de compresión H.265",
+            "vista_panoramica": "Vista panorámica de 180°",
+            "fps": "30 fps @ 8M",
+            "alineamiento": "Alineamiento de vídeo que le permite una imagen fluida",
+            "smart": "Smart Stream III para optimizar la eficiencia del ancho de banda",
+            "carcasa": "Carcasa resistente a intemperies IP66 y antivandalismo IK10",
+            "iluminadores": "Iluminadores IR hasta 20M",
+            "microfono": "Micrófono interno",
+            "snv": "SNV (Visibilidad Nocturna Suprema)",
+            "reduccion_ruido": "Reducción de ruido 3D para condiciones de baja iluminación",
+            "renuras": "Ranura integrada para tarjetas MicroSD/SDHC/SDXC",
+            "ndaa": "NDAA"
+          },
+          "especificaciones_tecnicas": {
+            "info_sistema": {
+              "modelo": "MS9390-EHV-v2",
+              "cpu": "SoC multimedia (sistema en chip)",
+              "flash": "eMMC 8GB",
+              "ram": "DDR4 2GB"
+            },
+            "info_camara": {
+              "sensor": "CMOS progresivo 1/2,7\"",
+              "max_resolucion": "4864x1632 (8MP)",
+              "tipo_lente": "Focal fija",
+              "longitud_focal": "f = 2,8 mm",
+              "apertura": "F1.2",
+              "tipo_iris": "Iris fijo",
+              "campo_vision": "180° (Horizontal) | 50° (Vertical)| 180° (Diagonal)"
+            },
+            "info_video": {},
+            "info_audio": {},
+            "info_red": {},
+            "info_ia": {},
+            "info_integracion": {},
+            "info_alarma_evento": {},
+            "info_general": {},
+            "info_requerimientos": {},
+            "info_incluye": {},
+            "info_dori": {}
+          }
+        }
+      ]
+    },
     "kit_lectura_patentes": {},
     "parlante_vox_ip": {},
     "solucion_movil": {},
