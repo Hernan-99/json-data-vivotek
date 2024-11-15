@@ -1,5 +1,5 @@
 {
-  "data": {
+  "camaras": {
     "ip_y_box": {
       "tipo": "Cámaras IP y Box",
       "modelos": [
@@ -41,64 +41,1491 @@
         {
           "id": 2,
           "img": "",
-          "nombre": "Copia MS9390-EHV-V2",
-          "descripcion": "Cámara de red panorámica multisensor",
+          "nombre": "FE9192-H",
+          "descripcion": "Cámara IP ojo de pez",
           "caracteristicas_principales": {
-            "resolucion": "Resolución de 8 megapíxeles",
-            "tecnologia_de_compresion": "Tecnología de compresión H.265",
-            "vista_panoramica": "Vista panorámica de 180°",
-            "fps": "30 fps @ 8M",
-            "alineamiento": "Alineamiento de vídeo que le permite una imagen fluida",
-            "smart": "Smart Stream III para optimizar la eficiencia del ancho de banda",
-            "carcasa": "Carcasa resistente a intemperies IP66 y antivandalismo IK10",
-            "iluminadores": "Iluminadores IR hasta 20M",
-            "microfono": "Micrófono interno",
-            "snv": "SNV (Visibilidad Nocturna Suprema)",
-            "reduccion_ruido": "Reducción de ruido 3D para condiciones de baja iluminación",
-            "renuras": "Ranura integrada para tarjetas MicroSD/SDHC/SDXC",
-            "ndaa": "NDAA"
+            "sensor": "Sensor CMOS de 12 megapíxeles",
+            "fps": "30 fps @ 2944x2944",
+            "wdr": "WDR Pro (120 dB) para una visibilidad mejorada en escenas de alto contraste",
+            "deteccion_movimiento": "Detección de movimiento inteligente para reducir las falsas alarmas",
+            "smart": "Smart VCA (detección de intrusiones, detección de multitudes, detección de merodeo)",
+            "seguridad": "Seguridad Trend Micro IoT",
+            "dewarping": "Dewarping local"
           },
           "especificaciones_tecnicas": {
-            "info_sistema": {
-              "modelo": "MS9390-EHV-v2",
-              "cpu": "SoC multimedia (sistema en chip)",
-              "flash": "eMMC 8GB",
-              "ram": "DDR4 2GB"
-            },
-            "info_camara": {
-              "sensor": "CMOS progresivo 1/2,7\"",
-              "max_resolucion": "4864x1632 (8MP)",
-              "tipo_lente": "Focal fija",
-              "longitud_focal": "f = 2,8 mm",
-              "apertura": "F1.2",
-              "tipo_iris": "Iris fijo",
-              "campo_vision": "180° (Horizontal) | 50° (Vertical)| 180° (Diagonal)"
-            },
-            "info_video": {},
-            "info_audio": {},
-            "info_red": {},
-            "info_ia": {},
-            "info_integracion": {},
-            "info_alarma_evento": {},
-            "info_general": {},
-            "info_requerimientos": {},
-            "info_incluye": {},
-            "info_dori": {}
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 3,
+          "img": "",
+          "nombre": "FE9391-EHV V2",
+          "descripcion": "Cámara IP ojo de pez",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 12 megapíxeles",
+            "fps": "30 fps @ 2944x2944",
+            "smart_ir": "IR de 360 ° 20 m con Smart IR II",
+            "wdr": "WDR Pro (120 dB) para una visibilidad mejorada en escenas de alto contraste",
+            "deteccion_movimiento": "Detección de movimiento inteligente para reducir las falsas alarmas",
+            "smart": "Smart VCA (detección de intrusiones, detección de multitudes, detección de merodeo)",
+            "seguridad": "Seguridad Trend Micro IoT",
+            "dewarping": "Dewarping local"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 4,
+          "img": "",
+          "nombre": "FE9180-H-V2",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "30 fps @ 1920x1920",
+            "snv": "SNV (Visibilidad Nocturna Suprema) para condiciones de poca luz",
+            "smart": "Smart Stream III para optimizar la eficiencia del ancho de banda",
+            "wdr": "WDR Pro para mejorar la visibilidad en entornos extremadamente brillantes y oscuros",
+            "ranura": "Ranura para tarjeta MicroSD/SDHC/SDXC integrada para almacenamiento en el equipo",
+            "seguridad": "Seguridad Trend Micro IoT",
+            "microfono": "Micrófono interno",
+            "dewarping": "Dewarping local"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 5,
+          "img": "",
+          "nombre": "Cámara IP ojo de pez",
+          "descripcion": "FE9382-EHV-v2",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "30 fps @ 2048x2048",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "soporta": "Soporta corrección de distorsión esférica",
+            "vca": "Smart VCA (detección de intrusiones, detección de multitudes, detección de merodeo)",
+            "seguridad": "Seguridad Trend Micro IoT",
+            "microfono": "Micrófono incorporado",
+            "carcasa": "Carcasa resistente a intemperies IP66 y antivandalismo IK10/NEMA 4X"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 6,
+          "img": "",
+          "nombre": "CC9381-HV",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "sensor": "Sensor CMOS de 5 megapíxeles",
+            "fps": "20 fps @ 2560x1920 (WDR enc.), 30 fps @ 2560x1920 (WDR apag.)",
+            "vista": "Vista panorámica horizontal de 180°",
+            "iluminadores": "Iluminadores IR 180° hasta 15 metros",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "wdr": "WDR Pro (120dB) para una visibilidad sin precedentes en entornos extremadamente oscuros y brillantes",
+            "ranura": "Ranura para tarjeta MicroSD/SDHC/SDXC integrada para almacenamiento en el equipo",
+            "seguridad": "Seguridad Trend Micro IoT",
+            "cobertura": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "inclinacion": "Inclinación de lente ajustable ± 25°",
+            "microfono": "Micrófono incorporado",
+            "diseño": "Diseño antiligaduras"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 7,
+          "img": "",
+          "nombre": "FE9381-EHV",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "lente": "Lente ojo de pez de 1,47 mm para vista panorámica de 180° y vista envolvente de 360°",
+            "fps": "30 fps a 1920x1920",
+            "filtro": "Filtro de corte IR extraíble para función diurna y nocturna",
+            "wdr": "WDR Pro para una visibilidad incomparable en entornos de alto contraste",
+            "smart": "Smart Stream II para optimizar la eficiencia del ancho de banda",
+            "vigilancia": "Cumplimiento de EN50155 para vigilancia móvil profesional",
+            "carcasa": "Carcasa con clasificación IK10 a prueba de vandalismo y resistente a la intemperie con clasificación IP66",
+            "ePTZ": "ePTZ para la eficiencia de los datos",
+            "2PoE": "PoE integrado compatible con 802.3af",
+            "soporte": "Soporte de corrección de distorsión del lado del cliente",
+            "contador": "Contador de píxeles para medir la claridad de la imagen"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 8,
+          "img": "",
+          "nombre": "MS9390-HV",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 8 megapíxeles",
+            "tecnologia": "Tecnología de compresión H.265",
+            "vista": "Vista panorámica de 180°",
+            "fps": "30 fps @ 4512x1728",
+            "alineacion": "Alineación de video para una imagen perfecta",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminacion": "Iluminación IR incorporada hasta 20 metros",
+            "snv": "SNV (Visibilidad nocturna suprema)",
+            "deteccion": "Detección de movimiento inteligente para reducir las falsas alarmas",
+            "microfono": "Micrófono incorporado",
+            "carcasa": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "seguridad": "Seguridad IoT de Trend Micro"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 9,
+          "img": "",
+          "nombre": "AF5108",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 5 megapíxeles",
+            "fps": "30 fps @ 1080p Full HD",
+            "lente": "Lente ojo de pez de 1,57 mm para vista panorámica de 180° y 360° de vista envolvente",
+            "wdr": " WDR mejorado para una visibilidad sin igual en entornos de alto contraste",
+            "ePTZ": "ePTZ para Eficiencia de Datos",
+            "soporte": "Soporta corrección de distorsión esférica local o en el c|liente",
+            "ruido": "Reducción de ruido 3D",
+            "montaje": "Montaje inclinado de 15° disponible",
+            "instalacion": "Permite instalación con caja de conexiones"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 10,
+          "img": "",
+          "nombre": "CC8371-HV",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 3 megapíxeles",
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "30 fps a 2048x1536",
+            "diseño": "Diseño antiligaduras",
+            "vision": "Vista panorámica horizontal de 180°",
+            "lente": "Lente ojo de pez de 1,47 mm para vista panorámica de 180° y vista envolvente de 360°",
+            "filtro": "Filtro de corte IR extraíble para función diurna y nocturna",
+            "vista": "Vista Panorámica Horizontal 180º",
+            "iluminacion": "Iluminadores IR de 180° hasta 15 metros",
+            "wdr": "WDR Pro (100 dB) para proporcionar visibilidad extrema en condiciones de mucha luz Escenas de contraste",
+            "snv": "SNV (visibilidad nocturna suprema)",
+            "ip66": "Clasificación IP66 resistente a la intemperie y clasificación IK10 a prueba de vandalismo Alojamiento",
+            "lente_inclinacion": "Lente con inclinación de ±25°",
+            "microfono": "Micrófono incorporado",
+            "reduccion": "Reducción de ruido 3D para condiciones de poca luz",
+            "codec": "Compresión H.264 y MJPEG en tiempo real (códec dual)",
+            "eptz": "ePTZ para la eficiencia de los datos",
+            "poe": "PoE integrado compatible con IEEE 802.3af",
+            "ranura": "Ranura para tarjetas MicroSD/SDHC/SDXC integrada"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 11,
+          "img": "",
+          "nombre": "FE9191-H-v2",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 12 megapíxeles",
+            "fps": "30 fps @ 2944x2944",
+            "wdr": "WDR Pro (120dB) para mejorar la visibilidad en escenas de alto contraste",
+            "deteccion": "Detección de movimiento inteligente para reducir las falsas alarmas",
+            "smart": "Smart VCA (detección de intrusiones, detección de multitudes, detección de merodeo)",
+            "seguridad": "Seguridad Trend Micro IoT",
+            "microfono": "Micrófono interno",
+            "dewarping": "Dewarping local"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 12,
+          "img": "",
+          "nombre": "FE9182-H",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de Compresión H.265",
+            "sensor": "Sensor CMOS 5-Megapíxeles",
+            "fps": "30 fps @ 1920x1920",
+            "lente": "Lente ojo de pez de 1.47 mm para vista panorámica de 180° y 360° de Vista Envolvente",
+            "filtro": "Filtro de Corte IR Removible para Función Día y Noche",
+            "iluminadores": "Iluminadores IR incorporados, efectivos hasta 20 metros",
+            "wdr": "WDR Pro para una visibilidad sin igual en entornos de alto contraste",
+            "smart": "Smart Stream II para Optimizar la Eficiencia de Ancho de Banda",
+            "EN50155": "Conformidad con la norma EN50155 para vigilancia móvil profesional (FE9382-EHV)",
+            "cubierta": "Cubierta a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66 (FE9382-EHV)",
+            "eptz": "ePTZ para Eficiencia de Datos",
+            "compatibilidad": "Compatibilidad PoE 802.3af Integrada",
+            "soporte": "Soporta Corrección de Distorsión Esférica en el Cliente",
+            "contador": "Contador de Píxeles para Medir la Claridad de la Imagen",
+            "niebla": "Reducción de Niebla"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
           }
         }
       ]
     },
-    "kit_lectura_patentes": {},
-    "parlante_vox_ip": {},
-    "solucion_movil": {},
-    "reconocimiento_facial": {},
-    "camaras_termicas": {},
-    "switches": {},
-    "accesorios": {},
-    "cms": {},
-    "bullet": {},
-    "domos_fijos": {},
-    "domos_ptz": {},
-    "nvr": {}
+
+    "kit_lectura_patentes": {
+      "tipo": "Kit Lectura de Patentes",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "IB9387-LPR",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "aplicacion": "Aplicación de Control de Acceso Integrada Basada en el Software LPR",
+            "reconoce": "Reconoce placas vehiculares de más de 70 países",
+            "listas": "Listas Blancas y Negras para la Verificación de Placas de Vehículos",
+            "gestion": "Gestión Centralizada de Listas en una Sola Cámara",
+            "integra": "Totalmente Integrado con VAST 2",
+            "apis": "Varias API Abiertas Disponibles para la Integración de Terceros",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "salida": "Salida Wiegand para Aplicaciones de Control de Acceso",
+            "soporta": "Soporta Reconocimiento de Identificación Peligrosa",
+            "cubierta": "Cubierta antivandalismo Clasificación IK10 y resistente a la intemperie Clasificación IP66, IP67"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "nombre": "IB9387-LPR-V2",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "software": "Software LPR integrado 5MP.",
+            "reconocimiento": "Reconoce hasta 30 Km/h.",
+            "sensor": "Sensor Progressive CMOS 1/2,8",
+            "lente": "Lente varifocal motorizado 3,2 ~ 10,5 mm.",
+            "enfoque": "Enfoque remoto.",
+            "fps": "30 fps @ 2560x1920.",
+            "smart": "Smart IR II. Smart Stream III",
+            "snv": "SNV (Visibilidad nocturna suprema). 3DNR."
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "parlante_voz_ip": {
+      "tipo": "Parlante de Voz IP",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "AU-001",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "carcasa": "Carcasa metálica y sonido nítido",
+            "hermetismo": "Hermético al polvo y al agua - IP66",
+            "almacenamiento": "Alimentación desde el cable de red IP mediante PoE+",
+            "configuracion": "Configuración remota y actualización de Firmware por HTTPS"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "solucion_movil": {
+      "tipo": "Solución Movil",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "MD9560-H",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "30 fps @ 1920x1080",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "cambios_iluminacion": "Rápida AE para rápida adaptación a cambios de iluminación",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "cubierta": "Cubierta antivandalismo Clasificación IK10 y resistente a la intemperie Clasificación IP66, IP67",
+            "iluminacion": "Iluminación IR incorporada hasta 20 metros",
+            "compatibilidad": "Compatibilidad PoE 802.3af integrada",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local",
+            "conformidad": "Conformidad con la norma EN50155 2017 OT1 para vigilancia móvil profesional",
+            "rotacion_video": "Rotación de video para Vista corredor"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "nombre": "NV9311P",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "visualizacion": "Visualización en vivo en tiempo real 8 canales H.265 1080p",
+            "smart": "Smart Stream II de VIVOTEK para optimizar la eficiencia de ancho de banda",
+            "pantalla": "Pantalla 4K para el monitoreo claro y detallado",
+            "conexion": "Múltiples conexiones de red LAN/Wi-Fi/LTE",
+            "compatibilidad": "802.3 at/af compatible con puerto PoE x8 con administración eficiente",
+            "sensor": "Sensor G incorporado para alertas de vibración del vehículo",
+            "seguimiento": "Seguimiento GPS en Google Maps con VMS VAST 2",
+            "almacenamiento": "Retraso de alimentación encendido/apagado y protección de bajo voltaje",
+            "calefaccion": "Calefactor Integrado para Temperaturas Extremas (-40°C ~ 55°C)",
+            "certificado": "Certificado EN50155/MIL-STD-810G para Asegurar la Confiabilidad durante el Recorrido del Vehículo"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "reconocimiento_facial": {
+      "tipo": "Reconocimiento Facial",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "SC8131",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de profundidad 3D de VIVOTEK",
+            "precision": "Alta tasa de precisión de hasta 98%",
+            "almacenamiento": "Datos de almacenamiento local para reporte de conteo",
+            "instalacion": "Fácil instalación y configuración",
+            "conteo": "Conteo sin interrupciones con VAST CMS"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "camaras_termicas": {
+      "tipo": "Cámaras Termicas",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "TB9330-E(8MM)",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "detector": "Detector infrarrojo VOx no enfriado",
+            "resolucion": "Resolución de 384 x 256",
+            "netd": "NETD < 50 mk @ F1.0",
+            "lente": "Lente fijo 8,8 mm.",
+            "fps": "30 fps @ 384x256.",
+            "smart": "Smart Stream II.",
+            "tecnologia": "Tecnología de compresión H.265",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "audio": "Audio bidireccional",
+            "soporta": "Soporta el estándar ONVIF para simplificar la integración y mejorar la interoperabilidad. Soporta VCA de VIVOTEK (Análisis de contenido de video)",
+            "certificado": "Certificación UL",
+            "cubierta": "Cubierta antivandalismo con clasificación NEMA 4X e IK10 y resistente a la intemperie Clasificación IP66/IP67"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "nombre": "TB9330-E(19MM)",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "detector": "Detector infrarrojo VOx no enfriado",
+            "resolucion": "Resolución de 384 x 256",
+            "netd": "NETD < 50 mk @ F1.0",
+            "lente": "Lente fijo 19 mm.",
+            "fps": "30 fps @ 384x256.",
+            "smart": "Smart Stream II.",
+            "tecnologia": "Tecnología de compresión H.265",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "audio": "Audio bidireccional",
+            "soporta": "Soporta el estándar ONVIF para simplificar la integración y mejorar la interoperabilidad. Soporta VCA de VIVOTEK (Análisis de contenido de video)",
+            "certificado": "Certificación UL",
+            "cubierta": "Cubierta antivandalismo con clasificación NEMA 4X e IK10 y resistente a la intemperie Clasificación IP66/IP67"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 3,
+          "img": "",
+          "nombre": "TB9331-E(8MM)",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "detector": "Detector infrarrojo VOx no enfriado",
+            "resolucion": "Resolución de 720x480. 30fps",
+            "lente": "Lente fijo 8,8 mm.",
+            "netd": "NETD < 50 mk @ F1.0",
+            "slot": "Slot para tarjeta micro SD/SDHC/SDXC",
+            "tecnologia": "Tecnología de compresión H.265",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "audio": "Audio bidireccional",
+            "soporta": "Soporta el estándar ONVIF para simplificar la integración y mejorar la interoperabilidad. Soporta VCA de VIVOTEK (Análisis de contenido de video)",
+            "certificado": "Certificación UL",
+            "cubierta": "Cubierta antivandalismo con clasificación NEMA 4X e IK10 y resistente a la intemperie Clasificación IP66/IP67"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 4,
+          "img": "",
+          "nombre": "TB9331-E(19MM)",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "detector": "Detector infrarrojo VOx no enfriado",
+            "resolucion": "Resolución de 720x480. 30fps",
+            "lente": "Lente fijo 19 mm.",
+            "netd": "NETD < 50 mk @ F1.0",
+            "slot": "Slot para tarjeta micro SD/SDHC/SDXC",
+            "tecnologia": "Tecnología de compresión H.265",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "audio": "Audio bidireccional",
+            "soporta": "Soporta el estándar ONVIF para simplificar la integración y mejorar la interoperabilidad. Soporta VCA de VIVOTEK (Análisis de contenido de video)",
+            "certificado": "Certificación UL",
+            "cubierta": "Cubierta antivandalismo con clasificación NEMA 4X e IK10 y resistente a la intemperie Clasificación IP66/IP67"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "switches": {
+      "tipo": "Switches",
+      "modelos": [
+        {
+          "id": 1,
+          "nombre": "SFP-1000-MM13-02",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "modulo": "Modulo Transceptor SFP. Multi modo.",
+            "velocidad": "Velocidad de datos 1,25G.",
+            "transmision": "Rango de transmisión 50/125μm, hasta 2km.",
+            "fibra": "Tipo de fibra MMF.",
+            "rx": "RX: -3 ~ -20 dBm, TX: -5 ~ -15 dBm.",
+            "longitud": "Longitud de Onda central: 1300/1310 nm. Conector LC compatible con MSA.",
+            "certificacion": "Certificacion NDAA. Certificaciones: IEC 825, EN60825-1, FDA 21 CFR 1040.10 y 1040.11. Alimentacion 3,3V. (No incluye fuente)."
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 2,
+          "nombre": "SFP-1000-SM13-10",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "modulo": "Modulo Transceptor SFP. Multi modo.",
+            "velocidad": "Velocidad de datos 1,25G.",
+            "transmision": "Rango de transmisión 50/125μm, hasta 10km.",
+            "fibra": "Tipo de fibra SMF.",
+            "rx": "RX: -3 ~ -21 dBm, TX: -3 ~ -9 dBm.",
+            "longitud": "Longitud de Onda central: 1310 nm. Conector LC compatible con MSA.",
+            "certificacion": "Certificacion NDAA. Certificaciones: IEC 825, EN60825-1, FDA 21 CFR 1040.10 y 1040.11. Alimentacion 3,3V. (No incluye fuente)."
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 3,
+          "nombre": "SFP-2000-SM13-10",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "modulo": "Modulo Transceptor SFP. Mono modo.",
+            "velocidad": "Velocidad de datos 10 GB.",
+            "transmision": "Rango de transmisión 9/125μm, hasta 10km.",
+            "fibra": "Tipo de fibra SMF.",
+            "rx": "RX:-1 ~ -14.4 dBm, TX: -8 ~ 0.5 dBm.",
+            "longitud": "Longitud de Onda central: 1310 nm. Conector LC, compatible con MSA.",
+            "certificacion": "Certificacion NDAA. Certificaciones: IEC 825, EN60825-1, FDA 21 CFR 1040.10 y 1040.11. Alimentacion 3,3V. (No incluye fuente)."
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 4,
+          "nombre": "AW-GEV-267A",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "vivocam": "VivoCam L2+ Switch PoE Administrable 24xGE PoE + 2xGE SFP.",
+            "puertos_poe": "24 Puertos Poe Rj45 de 10M/100M/1G.",
+            "potencia_max": "Potencia Max por puerto POE de 30W y salida de 54 VCC.",
+            "puertos_sfp": "2 Puertos SFP de 100M/1G .",
+            "puestos_consola": "1 Puerto Consola RJ45.",
+            "busqueda": "Busqueda de hasta 1000 disp Vivotek.",
+            "vista": "Vista en E-mapa. ",
+            "potencia": "Potencia total POE: 370W.",
+            "tension": "Tensión de entrada 220VAC."
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 5,
+          "nombre": "AW-GEV-264B-370",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "vivocam": "VivoCam Switch POE Administrable de red 24xGE POE + 2xGE SFP.",
+            "puertos_poe": "24 Puertos Poe Rj45 de 10M/100M/1G.",
+            "potencia_max": "Potencia Max por puerto POE de 30W y salida de 54 VCC.",
+            "puertos_sfp": "2 Puertos SFP de 100M/1G . ",
+            "busqueda": "Busqueda de hasta 256 disp Vivotek.",
+            "vista": "Vista en E-mapa. ",
+            "certificacion": "Certificación NDAA.",
+            "potencia": "Potencia total POE: 370W. ",
+            "proteccion": "Protección 6KV.",
+            "tension": "Tensión de entrada 220VAC."
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 6,
+          "nombre": "AW-IHT-1271",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "vivocam": "VivoCam L2+ Switch PoE Administrable 8xGE PoE + 4xGE SFP Industrial.",
+            "puertos_poe": "8 Puertos Poe Rj45 de 10M/100M/1G. ",
+            "potencia_max": "Potencia Max por puerto POE de 30W y salida de 54 VCC.",
+            "puertos_sfp": "4 Puertos SFP de 100M/1G.",
+            "puestos_consola": "1 Puerto Consola RJ45. ",
+            "busqueda": "Busqueda de hasta 256 disp Vivotek.",
+            "vista": "Vista en E-mapa. ",
+            "certificacion": "Certificación NDAA.",
+            "proteccion": "Protección 6KV.",
+            "alimentacion": "Dos entradas de alimentacion 48 ~ 57 V DC, respaldo con alimentacion redundante. (No incluye fuente)."
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 7,
+          "nombre": "AW-GTS-287A",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "switch": "Switch administrable 10G L2PLUS, 20xGE SFP + 4xCombo GE + 4x10G SFP + Capa 2 Plus.",
+            "puertos_combinados": "4 Puerto combinado GE RJ45/SFP.",
+            "potencia_max": "Potencia Max por puerto POE de 30W y salida de 54 VCC.",
+            "puertos_sfp": "20 Puertos SFP de 100M/1G.",
+            "puertos_sfp_": "4 Puerto SFP+ de 100M/1G/10GbE.",
+            "puestos_consola": "1 Puerto Consola RS232. ",
+            "busqueda": "Busqueda de hasta 1000 disp Vivotek.",
+            "vista": "Vista en E-mapa. ",
+            "certificacion": "Certificación NDAA.",
+            "proteccion": "Protección 6KV.",
+            "vlan": "4096 ID de VLAN Ids.",
+            "ancho_banda": "Ancho de Banda 10056 Bytes.",
+            "potencia": "Potencia 40W.",
+            "tension": "Tensión de entrada 220VAC."
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "accesorios": {
+      "tipo": "Accesorios",
+      "modelos": [
+        {
+          "id": 1,
+          "nomre": "VS8100-V2",
+          "descripcion": "Video server 1 CH. 30 fps con resolución D1. Multi-Streams. H.264 en tiempo real, compresión MJPEG (códec dual). Smart Stream II. Interfaz RS-485 para control de cámara PTZ. Seguridad de IoT de Trend Micro. Certificacion NDAA. Alimentación compartida de 12 V CC con cámara analógica. (No incluye fuente)."
+        },
+        {
+          "id": 2,
+          "nomre": "AJ-001",
+          "descripcion": "Joystick. Tres ejes X / Y / Z para control de posicionamiento. 8 x interruptores táctiles de larga duración. Recorrido del joystick: ejes X/Y +/-20., eje Z +/-30. 3 Indicadores leds. Conector USB 2.0. Compatible con: Windows 7/8/10/11 con plug & play, Todos los VIVOTEK NVR, Speed ​​Dome y VSS. Alimentacion por USB (5V DC). (No incluye fuente)."
+        },
+        {
+          "id": 3,
+          "nomre": "600087110G",
+          "descripcion": "Burbuja para domo. Modelos compatibles: SD9361 y SD9362"
+        },
+        {
+          "id": 4,
+          "nomre": "AC-112",
+          "descripcion": "Burbuja para domo. Modelos compatibles: SD8333-E, SD8363E, SD8364E,SD83x4E,SD83x6E"
+        },
+        {
+          "id": 5,
+          "nomre": "BEL-26780",
+          "descripcion": "Fuente de alimentacion SW 48VCC 0,5A POE"
+        },
+        {
+          "id": 6,
+          "nomre": "BEL-26794",
+          "descripcion": "Fuente de alimentacion SW 48VCC 1A POE"
+        },
+        {
+          "id": 7,
+          "nomre": "SM048-48125",
+          "descripcion": "Fuente de alimentacion SW 48VCC 1,25A POE"
+        },
+        {
+          "id": 8,
+          "nomre": "AM-529",
+          "descripcion": "Montaje de adaptador para domo de alta velocidad"
+        }
+      ]
+    },
+
+    "cms": {
+      "tipo": "CMS",
+      "modelos": [
+        {
+          "id": 1,
+          "nombre": "Cyber Security",
+          "descripcion": "Licencia de CiberSeguridad. La licencia es vitalicia. Protección multicapa con Trend Micro IoT Security. Gestión de alarmas de ciberseguridad con alertas instantáneas. Informe de eventos de ciberseguridad con panel interactivo ( NO COMPATIBLE CON MODELO IB9369)."
+        },
+        {
+          "id": 2,
+          "nombre": "VSS Pro con NVR embebido",
+          "descripcion": "Software de gestión y grabación VAST Security Station (VSS), impulsado por IA. Valor por canal de camaras conectadas a NVR Vivotek. Soporta hasta 22.400 ch por sistema y hasta 320 ch por servidor. Soporta Busqueda por atributo, Deep Search, Smart VCA, seguimiento inteligente y Re-search. Compatible con ONVIF y RTSP. Acepta servidor virtual (solo compatible con VMware y Microsoft Hyper-V)."
+        },
+        {
+          "id": 3,
+          "nombre": "VSS Standard",
+          "descripcion": "Software de gestión y grabación VAST Security Station (VSS), impulsado por IA. Viene con 8 ch free. Soporta hasta 128 ch por sistema y por servidor. Soporta Busqueda por atributo, Deep Search, Smart VCA y seguimiento inteligente. Compatible con ONVIF y RTSP. (No compatible con servidor virtual)."
+        },
+        {
+          "id": 4,
+          "nombre": "VSS Professional",
+          "descripcion": "Software de gestión y grabación VAST Security Station (VSS), impulsado por IA. Soporta hasta 22.400 ch por sistema y hasta 320 ch por servidor. Soporta Busqueda por atributo, Deep Search, Smart VCA, seguimiento inteligente y Re-search. Compatible con ONVIF y RTSP. Acepta servidor virtual (solo compatible con VMware y Microsoft Hyper-V)."
+        }
+      ]
+    },
+
+    "bullet": {
+      "tipo": "Camaras Bullet",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "AB5166",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 2 megapíxeles",
+            "fps": "30 fps @ 1920x1080",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "smart": "Smart Stream II para optimizar la eficiencia de ancho de banda",
+            "wdr": "WDR mejorado para una visibilidad sin igual en entornos de alto contraste",
+            "reduccion": "Reducción de ruido 3D para condiciones de poca luz",
+            "rotacion": "Rotación de video para Vista corredor",
+            "lente": "Perfil de lente para asegurar completa compatibilidad de diferentes opciones de lentes"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "nombre": "AB6117-HP (IP9171-HP)",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "30 fps @ 2048x1536",
+            "lente": "Lente P-iris",
+            "smart": "Smart Stream II para optimizar la eficiencia de ancho de banda",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "enfoque": "Enfoque posterior remoto para fáciles ajustes de enfoque",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "rotacion": "Rotación de video para Vista corredor",
+            "perfil_lente": "Perfil de lente para asegurar completa compatibilidad de diferentes opciones de lentes",
+            "ethernet": "Ethernet gigabit para alta velocidad de transmisión"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 3,
+          "img": "",
+          "nombre": "ip8160",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "30 fps a 1920x1080",
+            "iluminacion": "Iluminadores IR incorporados de hasta 8 M",
+            "tecnologia": "Tecnología IR inteligente para evitar la sobreexposición",
+            "smart": "Smart Stream II para optimizar la eficiencia del ancho de banda",
+            "microfono": "Micrófono y altavoz integrados para audio bidireccional",
+            "eco": "Cancelación de eco acústico (AEC) para optimizar el sonido Sistema",
+            "poe": "PoE integrado compatible con 802.3af (IP8160)",
+            "wlan": "WLAN 802.11 b/g/n integrada (IP8160-W)",
+            "ranura": "Ranura para tarjetas MicroSD/SDHC/SDXC integrada para almacenamiento integrado",
+            "diseño": "Diseño compacto",
+            "trend": "Trend Micro IoT Security dentro del período de garantía estándar"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 4,
+          "img": "",
+          "nombre": "AB5396A",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 2 megapíxeles",
+            "fps": "30 fps @ 1920x1080",
+            "compresion": "H.264 en tiempo real y compresión MJPEG (doble códec)",
+            "filtro": "Filtro de corte IR extraíble para función día y noche",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "tecnologia": "Tecnología Smart IR para evitar la sobreexposición",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "smart": "Smart Stream II para optimizar la eficiencia de ancho de banda",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "soporta": "Soporta el estándar ONVIF para simplificar la integración y mejorar la interoperabilidad"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 5,
+          "img": "",
+          "nombre": "AB5376 (IB8367)",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "sensor": "Sensor CMOS progresivo 1/2,8",
+            "fps": "30 fps @ 2048x1536",
+            "smart": "Smart Stream II para optimizar la eficiencia de ancho de banda",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "enfoque": "Enfoque remoto para fáciles ajustes de enfoque",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "rotacion": "Rotación de video para Vista corredor"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 6,
+          "img": "",
+          "nombre": "AB6317-HT",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "30 fps @ 1920x1080",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "diseño": "Installation-friendly Design",
+            "cubierta": "Cubierta antivandalismo Clasificación IK10 y resistente a la intemperie Clasificación IP66, IP67",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "firma": "Signed Firmware and Secure Boot",
+            "ai": "AI-powered Smart Motion Detection and Smart VCA",
+            "trend": "Trend Micro IoT Security"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 7,
+          "img": "",
+          "nombre": "IB9367-HT",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "30 fps @ 1920x1080",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "instalacion": "Installation-friendly Design",
+            "cubierta": "Cubierta antivandalismo Clasificación IK10 y resistente a la intemperie Clasificación IP66, IP67",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "firma": "Signed Firmware and Secure Boot",
+            "ai": "AI-powered Smart Motion Detection and Smart VCA",
+            "trend": "Trend Micro IoT Security"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 8,
+          "img": "",
+          "nombre": "AB5328-F3 (IB8382-F3)",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 5 megapíxeles",
+            "fps": "15 fps @ 2560x1920, 30 fps @ 1920x1080",
+            "lente": "3.6 mm, lente de foco fijo",
+            "filtro": "Filtro de corte IR extraíble para función día y noche",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "tecnologia": "Tecnología Smart IR para evitar la sobreexposición",
+            "smart": "Smart Stream para optimizar la eficiencia de ancho de banda",
+            "wdr": "WDR mejorado para una visibilidad sin igual en entornos de alto contraste",
+            "audio": "Audio bidireccional",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 9,
+          "img": "",
+          "nombre": "IB9365-HT",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "60 fps @ 1920x1080",
+            "compresion": "Tecnología de compresión H.265",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para una visibilidad sin precedentes en entornos extremadamente oscuros y brillantes",
+            "iluminacion": "Iluminación IR incorporada hasta 50/100 metros",
+            "tecnologia": "Tecnología Smart IR II para evitar la sobreexposición",
+            "deteccion": "Detección de movimiento inteligente para reducir las falsas alarmas",
+            "smart_vca": "Smart VCA(Detección de intrusiones, Detección de merodeo, Detección de cruce de línea)",
+            "trend": "Trend Micro IoT Security",
+            "cubierta": "Cubierta antivandalismo Clasificación IK10 y resistente a la intemperie Clasificación IP66, IP67"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 10,
+          "img": "",
+          "nombre": "IB9391-EHTV-V2",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "30 fps @ 3840x2160",
+            "tecnologia": "Tecnología de compresión H.265 con Smart Stream III",
+            "diseño": "Diseño de instalación fácil",
+            "proteccion": "Protección resistente a la intemperie IP66, IP67 y antivandalismo IK10 y NEMA 4X",
+            "snv": "SNV (Visibilidad Nocturna Suprema) para condiciones de poca luz",
+            "wdr": "WDR Pro II para una visibilidad inmejorable en entornos extremadamente brillantes y oscuros",
+            "iluminadores": "Iluminadores IR incorporados efectivos hasta a 50M con Smart IR III",
+            "firma": "Firmware firmado y arranque seguro",
+            "deteccion": "Detección de movimiento inteligente con tecnología de inteligencia artificial y VCA inteligente",
+            "ciberproteccion": "Ciberprotección con Trend Micro IoT Security"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 11,
+          "img": "",
+          "nombre": "IB9369",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "30 fps @ 1920x1080",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "tecnologia_smart": "Tecnología Smart IR para evitar la sobreexposición",
+            "deteccion": "Detección de movimiento inteligente para reducir las falsas alarmas",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 12,
+          "img": "",
+          "nombre": "IB9380-H",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "fps": "20 fps @ 2560x1920 (WDR Pro on)",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "trend": "Trend Micro IoT Security",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 13,
+          "img": "",
+          "nombre": "IB9368-HT",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "30 fps @ 1920x1080 (WDR Pro encendido)",
+            "enfoque": "2.8~12 mm, Enfoque remoto",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "trend": "Trend Micro IoT Security",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 14,
+          "img": "",
+          "nombre": "IB9389-EH V2",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "30 fps @ 2560x1920, 60 fps @ 1920x1080 (WDR Pro enc.)",
+            "wdr": "WDR Pro (120dB) para una visibilidad sin precedentes en entornos extremadamente oscuros y brillantes",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "tecnologia": "Tecnología Smart IR para evitar la sobreexposición",
+            "trend": "Trend Micro IoT Security",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "objetivo": "Objetivo fijo de 3,6mm"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 15,
+          "img": "",
+          "nombre": "IB9388-HT",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "20 fps @ 2560x1920 (WDR Pro enc.)",
+            "enfoque": "2.8~12 mm, Enfoque remoto",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "trend": "Trend Micro IoT Security",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 16,
+          "img": "",
+          "nombre": "IB9387-HT-A",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "30 fps @ 2560x1920, 60 fps @ 1920x1080",
+            "tecnologia": "Tecnología de compresión H.265",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "snv": "SNV II (Visibilidad nocturna suprema II) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para proporcionar mejor visibilidad en entornos oscuros o extremadamente brillantes",
+            "iluminacion": "Iluminación IR incorporada hasta 50 metros",
+            "tecno_smart": "Tecnología Smart IR II para evitar la sobreexposición",
+            "deteccion": "Detección de movimiento inteligente para reducir las falsas alarmas",
+            "vca": "Smart VCA(Detección de intrusiones, Detección de merodeo, Detección de cruce de línea)",
+            "trend": "Trend Micro IoT Security",
+            "cubierta": "Cubierta antivandalismo Clasificación IK10 y resistente a la intemperie Clasificación IP66, IP67"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 17,
+          "img": "",
+          "nombre": "IB9388-HT",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "20 fps @ 2560x1920 (WDR Pro enc.)",
+            "enfoque": "2.8~12 mm, Enfoque remoto",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "trend": "Trend Micro IoT Security",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 18,
+          "img": "",
+          "nombre": "IB9365-EHTV-V2",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "60 fps @ 1920x1080",
+            "tecnologia": "Tecnología de compresión H.265 con Smart Stream III",
+            "diseño": "Diseño de instalación fácil",
+            "proteccion": "Protección resistente a la intemperie IP66, IP67 y antivandalismo IK10 y NEMA 4X",
+            "snv": "SNV II (Visibilidad Nocturna Suprema) para condiciones de poca luz",
+            "wdr": "WDR Pro II para una visibilidad inmejorable en entornos extremadamente brillantes y oscuros",
+            "iluminadores": "Iluminadores IR incorporados efectivos hasta a 50M con Smart IR III",
+            "firma": "Firmware firmado y arranque seguro",
+            "deteccion": "Detección de movimiento inteligente con tecnología de inteligencia artificial y VCA inteligente",
+            "ciberproteccion": "Ciberprotección con Trend Micro IoT Security"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "camaras_domo": {
+      "tipo": "Cámaras Domo",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "SD9362-EHL",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "sensor": "Sensor CMOS Full HD 1080P",
+            "fps": "60 fps @ 1920x1080",
+            "zoom": "Zoom óptico 30x",
+            "filtro": "Filtro de corte IR extraíble para función día y noche",
+            "movimiento": "Movimiento horizontal continuo de 360° y 220° de inclinación",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "smart": "Smart Stream II para optimizar la eficiencia de ancho de banda",
+            "cubierta": "Cubierta antivandalismo con clasificación NEMA 4X e IK10 y resistente a la intemperie Clasificación IP68",
+            "rango": "-40° C ~ 55°C rango amplio de temperatura para condiciones climáticas extremas"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "nombre": "SD9368-EHL",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "60 fps @ 1920x1080",
+            "zoom": "Zoom óptico 40x, enfoque automático",
+            "movimiento": "Movimiento horizontal continuo de 360°, Inclinación de -20 ° a 90 ° (giro automático)",
+            "ir": "IR 250M con Smart IR",
+            "cubierta": "Cubierta antivandalismo con clasificación NEMA 4X e IK10 y resistente a la intemperie Clasificación IP66",
+            "rango": "-40° C ~ 60°C rango amplio de temperatura para condiciones climáticas extremas",
+            "ets": "EIS (Estabilización de imagen electrónica) para controlar la estabilidad de imagen",
+            "trend": "Trend Micro IoT Security",
+            "seguimiento": "Seguimiento inteligente avanzado de personas en movimiento con tecnología Deep Learning basada en personas"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 3,
+          "img": "",
+          "nombre": "SD9161-H-V2",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265 60 fps @ 1920x1080",
+            "zoom": "Zoom óptico 10x",
+            "analisis": "Análisis de objetos de visión",
+            "seguimiento": "Seguimiento inteligente avanzado",
+            "wdr": "WDR Pro para visibilidad sin paralelo en entornos de alto contraste",
+            "smart": "Smart Stream III para optimizar la eficiencia del ancho de banda",
+            "seguridad": "Seguridad mejorada con firmware firmado y Trend Micro"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 4,
+          "img": "",
+          "nombre": "FD9369",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "30 fps @ 1920x1080",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "tecnologia_smart": "Tecnología Smart IR para evitar la sobreexposición",
+            "deteccionn": "Detección de movimiento inteligente para reducir las falsas alarmas",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local",
+            "cubierta": "Cubierta antivandalismo Clasificación IK10 y resistente a la intemperie Clasificación IP66"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 5,
+          "img": "",
+          "nombre": "FD9380-H",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "20 fps @ 2560x1920 (WDR Pro enc.)",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 7,
+          "img": "",
+          "nombre": "AD5166A (FD8166A)",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 2 megapíxeles",
+            "fps": "30 fps @ 1920x1080",
+            "codec": "H.264 en tiempo real y compresión MJPEG (doble códec)",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "smart": "Smart Stream II para optimizar la eficiencia de ancho de banda",
+            "wdr": "WDR mejorado para una visibilidad sin igual en entornos de alto contraste",
+            "reduccion_ruido": "Reducción de ruido 3D",
+            "compatibilidad": "Compatibilidad PoE IEEE 802.3af integrada",
+            "reduccion_niebla": "Reducción de niebla",
+            "diseño": "Diseño compacto y elegante"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 8,
+          "img": "",
+          "nombre": "FD8369A-V",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 2 megapíxeles",
+            "fps": "30 fps @ 1920x1080",
+            "compresion": "Compresión H.264, MJPEG en tiempo real (doble códec)",
+            "filtro": "Filtro de infrarrojos extraíble para función diurna y nocturna",
+            "iluminadores": "Iluminadores IR incorporados, efectivos hasta 30 metros",
+            "poe": "PoE integrado compatible con 802.3af",
+            "ranura": "Ranura para tarjetas MicroSD/SDHC/SDXC integrada para almacenamiento integrado",
+            "compatibilidad": "Compatible con el estándar ONVIF para simplificar la integración y mejorar la interoperabilidad",
+            "carcasa": "Carcasa resistente a la intemperie con clasificación IP66 y antivandálica con clasificación IK10",
+            "smart": "Smart Stream II para optimizar la eficiencia del ancho de banda",
+            "reduccion": "Reducción de ruido 3D",
+            "tecnologia": "Tecnología IR inteligente para evitar la sobreexposición",
+            "snv": "SNV (Supreme Night Visibility) para condiciones de poca luz",
+            "trend": "Trend Micro IoT Security dentro del periodo de garantía estándar"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 9,
+          "img": "",
+          "nombre": "AD5196A (FD8169A)",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "30 fps @ 1920x1080",
+            "codec": "H.264 en tiempo real y compresión MJPEG (doble códec)",
+            "filtro": "Filtro de corte IR extraíble para función día y noche",
+            "iluminacion": "Iluminación IR incorporada hasta 20 metros",
+            "compatibilidad": "Compatibilidad PoE 802.3af integrada",
+            "soporte": "Soporta el estándar ONVIF para simplificar la integración y mejorar la interoperabilidad",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "smart": "Smart Stream II para optimizar la eficiencia de ancho de banda",
+            "reduccion": "Reducción de ruido 3D",
+            "tecnologia": "Tecnología Smart IR para evitar la sobreexposición"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 10,
+          "img": "",
+          "nombre": "FD8367A-V",
+          "descripcion": "Ya no se fabrica",
+          "caracteristicas_principales": {},
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 11,
+          "img": "",
+          "nombre": "FD9368-HTV",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "30 fps @ 1920x1080 (WDR Pro enc.)",
+            "enfoque": "2.8~12 mm, Enfoque remoto",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminadores": "Iluminadores IR incorporados, efectivos hasta 30 metros con Smart IR",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local",
+            "microfono": "Micrófono incorporado"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 12,
+          "img": "",
+          "nombre": "FD9389-EHV-V2",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "fps": "30 fps @ 2560x1920, 60 fps @ 1920x1080 (WDR Pro enc.)",
+            "wdr": "WDR Pro (120dB) para una visibilidad sin precedentes en entornos extremadamente oscuros y brillantes",
+            "iluminacion": "Iluminación IR incorporada hasta 30 metros",
+            "tecnologia": "Tecnología Smart IR para evitar la sobreexposición",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "objetivo": "Objetivo fijo de 2,8 mm"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 13,
+          "img": "",
+          "nombre": "FD9388-HTV",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265",
+            "fps": "20 fps @ 2560x1920 (WDR Pro enc.)",
+            "enffoque": "2.8~12 mm, Enfoque remoto",
+            "snv": "SNV (Visibilidad nocturna suprema) para condiciones de baja iluminación",
+            "wdr": "WDR Pro para una calidad de imagen óptima en entornos de alto contraste",
+            "smart": "Smart Stream III para optimizar la eficiencia de ancho de banda",
+            "iluminadores": "Iluminadores IR incorporados, efectivos hasta 30 metros con Smart IR",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "cubierta": "Cubierta metálica a prueba de vandalismo clasificación IK10 y resistente a la intemperie clasificación IP66",
+            "ranura": "Ranura de tarjetas MicroSD/SDHC/SDXC incorporada para almacenamiento local",
+            "microfono": "Micrófono incorporado"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 14,
+          "img": "",
+          "nombre": "SD9394-EHL",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265 30 fps a 3840x2160",
+            "modulo": "Módulo de aceleración CNN incorporado",
+            "wdr": "WDR Pro para una visibilidad inmejorable en entornos extremadamente brillantes y oscuros",
+            "ir": "IR 250M con Tecnología Smart IR para evitar la sobreexposición",
+            "cubierta": "Cubierta antivandalismo con clasificación NEMA 4X e IK10 y resistente a la intemperie Clasificación IP66",
+            "temperatura": "-40° C ~ 55°C rango amplio de temperatura para condiciones climáticas extremas",
+            "seguridad": "Seguridad mejorada con firmware firmado y seguridad Trend Micro IoT",
+            "seguimiento": "Seguimiento inteligente avanzado de personas en movimiento con tecnología Deep Learning basada en personas"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "nvr": {
+      "tipo": "NVR",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "ND9441",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265/H.264",
+            "pantalla": "Pantalla 4K para el monitoreo claro",
+            "capacidad": "Capacidad de decodificación hasta16 canales 1080p",
+            "smart": "Smart Search II",
+            "busqueda": "Búsqueda de eventos con Smart VCA",
+            "gestion": "Gestión de ciberseguridad",
+            "seguridad": "Seguridad IoT de Trend Micro",
+            "custom": "Customer Support",
+            "soporta": "Soporta RAID 0, 1, 5 para evitar pérdida de datos de grabación. Soporta solución de conteo VCA",
+            "exploradores": "Múltiples exploradores compatibles: IE, Chrome y Firefox en Windows & macOS"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 2,
+          "img": "",
+          "nombre": "ND8212W",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.264",
+            "canales": "Wi-Fi de 4 canales + entrada de cámara IP con cable de 4 canales",
+            "salida": "Salida de video HDMI hasta 4K de resolución",
+            "hdd": "1 x 3.5 SATA HDD hasta 6TB",
+            "camara": "Cámara de hasta 8MP Liveview y reproducción",
+            "app": "Aplicación y portal VIVOCloud para visualización 24/7",
+            "conexion": "Fácil conexión con cámaras IP y configuración automática rápida",
+            "reproduccion": "Reproducción instantánea Fisheye Dewarp",
+            "conexion_wifi": "Conexión de Wi-Fi de 2.4GHz 802.11 b / g / n",
+            "cumplimiento": "Cumplimiento de ONVIF (Función de soporte de proyecto)"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        },
+        {
+          "id": 3,
+          "img": "",
+          "nombre": "ND9541",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "tecnologia": "Tecnología de compresión H.265 / H.264",
+            "pantalla": "Pantalla 4K para monitoreo claro. Hasta 1080p 16CH Capacidad de decodificación",
+            "busqueda": "Búsqueda inteligente II. Búsqueda inteligente de eventos VCA",
+            "gestion": "Gestión de la ciberseguridad",
+            "trend": "Trend Micro IoT Security",
+            "raid": "RAID 0, 1, 5 compatible para evitar la pérdida de datos de grabación",
+            "exploradores": "Múltiples navegadores compatibles: IE, Chrome y Firefox tanto en Windows como en MacOS",
+            "soporta": "Soporta solución de conteo VCA"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "domos_fijos": {
+      "tipo": "Domos Fijos",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "resolucion": "",
+            "tecnologia_de_compresion": "",
+            "vista_panoramica": "",
+            "fps": "",
+            "alineamiento": "",
+            "smart": "",
+            "carcasa": "",
+            "iluminadores": "",
+            "microfono": "",
+            "snv": "",
+            "reduccion_ruido": "",
+            "renuras": "",
+            "ndaa": ""
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    },
+
+    "domos_ptz": {
+      "tipo": "Domos PTZ",
+      "modelos": [
+        {
+          "id": 1,
+          "img": "",
+          "nombre": "",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "resolucion": "",
+            "tecnologia_de_compresion": "",
+            "vista_panoramica": "",
+            "fps": "",
+            "alineamiento": "",
+            "smart": "",
+            "carcasa": "",
+            "iluminadores": "",
+            "microfono": "",
+            "snv": "",
+            "reduccion_ruido": "",
+            "renuras": "",
+            "ndaa": ""
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
+        }
+      ]
+    }
+  },
+  "software": {
+    "tipos": [
+      {
+        "id": 1,
+        "nombre": "VAST 2",
+        "img": "",
+        "descripcion": "Cambie la forma en que experimenta el VMS",
+        "descarga": "https://www.vivotek.com/es/vast2-downloads"
+      },
+      {
+        "id": 2,
+        "nombre": "VAST Security Station",
+        "img": "",
+        "descripcion": "Un sistema de vigilancia de IA de configuración rápida",
+        "descarga": "https://www.vivotek.com/es/vast-security-station"
+      }
+    ]
+  },
+  "data_contacto": {
+    "distribuidor": "Distribuidor Vivotek en Argentina",
+    "empresa": "C-Team INC SRL",
+    "direccion": "Jorge de Kay 360, Adrogué [1846] BsAs, Argentina",
+    "numero_contacto": [
+      "+54 11 6091-7755",
+      "+54 11 6379-9281",
+      "+54 11 6973 1562 "
+    ],
+    "email": "Info@C-Team.com.ar"
   }
 }
