@@ -29,6 +29,7 @@
     "gran_angular": {
       "tipo": "Cámaras Gran Angular",
       "imagen_referencia": "https://i.ibb.co/XWv7Hc2/ms9390-hv-1.png",
+      "redirect": "/camaras_gran_angular",
       "modelos": [
         {
           "id": 1,
@@ -324,6 +325,7 @@
     "kit_lectura_patentes": {
       "tipo": "Kit Lectura de Patentes",
       "imagen_referencia": "https://i.ibb.co/h8GYwR3/ib9387-lpr-v2.png",
+      "redirect": "/camaras_lectura_patentes",
       "modelos": [
         {
           "id": 1,
@@ -371,6 +373,7 @@
     "parlante_voz_ip": {
       "tipo": "Parlante de Voz IP",
       "imagen_referencia": "https://i.ibb.co/RBbZRb3/parlante-ip.png",
+      "redirect": "/parlante_voz_ip",
       "modelos": [
         {
           "id": 1,
@@ -393,6 +396,7 @@
     "solucion_movil": {
       "tipo": "Solución Movil",
       "imagen_referencia": "https://i.ibb.co/JkSVMVY/MD9560-H.png",
+      "redirect": "/solucion_movil",
       "modelos": [
         {
           "id": 1,
@@ -443,6 +447,7 @@
     "reconocimiento_facial": {
       "tipo": "Reconocimiento Facial",
       "imagen_referencia": "https://i.ibb.co/Ch2YKFF/sc8131.png",
+      "redirect": "/camaras_reconocimiento_facial",
       "modelos": [
         {
           "id": 1,
@@ -466,6 +471,7 @@
     "camaras_termicas": {
       "tipo": "Cámaras Termicas",
       "imagen_referencia": "https://i.ibb.co/hKrHFyz/TB9330-E-8-MM.png",
+      "redirect": "/camaras_termicas",
       "modelos": [
         {
           "id": 1,
@@ -563,6 +569,7 @@
     "switches": {
       "tipo": "Switches",
       "imagen_referencia": "https://i.ibb.co/z60QJFR/SFP-1000-SM13-10.png",
+      "redirect": "/switches",
       "modelos": [
         {
           "id": 1,
@@ -711,6 +718,7 @@
     "accesorios": {
       "tipo": "Accesorios",
       "imagen_referencia": "https://i.ibb.co/MgRSW9k/AJ-001.webp",
+      "redirect": "/accesorios",
       "modelos": [
         {
           "id": 1,
@@ -766,6 +774,7 @@
     "cms": {
       "tipo": "CMS",
       "imagen_referencia": "https://i.ibb.co/DfTsQvW/VSS-Pro-con-NVR-embebido.png",
+      "redirect": "/cms",
       "modelos": [
         {
           "id": 1,
@@ -797,6 +806,7 @@
     "bullet": {
       "tipo": "Camaras Bullet",
       "imagen_referencia": "https://i.ibb.co/HNw1qvK/ab6317-ht.png",
+      "redirect": "/camaras_bullet",
       "modelos": [
         {
           "id": 1,
@@ -1177,6 +1187,7 @@
     "camaras_domo": {
       "tipo": "Cámaras Domo",
       "imagen_referencia": "https://i.ibb.co/cFGH3fB/sd9161-h-v2.png",
+      "redirect": "/camaras_domo",
       "modelos": [
         {
           "id": 1,
@@ -1440,6 +1451,7 @@
     "nvr": {
       "tipo": "NVR",
       "imagen_referencia": "https://i.ibb.co/Byz5Jr6/nd8212w.png",
+      "redirect": "/productos/nvr",
       "modelos": [
         {
           "id": 1,
