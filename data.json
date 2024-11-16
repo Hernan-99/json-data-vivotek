@@ -1,6 +1,7 @@
 {
   "camaras": {
     "ip_y_box": {
+      "id": 1,
       "tipo": "Cámaras IP y Box",
       "imagen_referencia": "https://i.ibb.co/Fx94Yqf/ip8160.png",
       "redirect": "/camaras_ip_box",
@@ -27,6 +28,7 @@
     },
 
     "gran_angular": {
+      "id": 2,
       "tipo": "Cámaras Gran Angular",
       "imagen_referencia": "https://i.ibb.co/XWv7Hc2/ms9390-hv-1.png",
       "redirect": "/camaras_gran_angular",
