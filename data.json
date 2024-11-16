@@ -2,11 +2,12 @@
   "camaras": {
     "ip_y_box": {
       "tipo": "Cámaras IP y Box",
-      "imagen_referencia": "https://i.ibb.co/7tfRWbg/ip8160.png",
+      "imagen_referencia": "https://i.ibb.co/Fx94Yqf/ip8160.png",
+
       "modelos": [
         {
           "id": 1,
-          "img": "https://i.ibb.co/7tfRWbg/ip8160.png",
+          "img": "https://i.ibb.co/Fx94Yqf/ip8160.png",
           "nombre": "Cámara IP Vivotek ip8160",
           "descripcion": "2MP, 8M IR, AEC, PoE",
           "caracteristicas_principales": {
