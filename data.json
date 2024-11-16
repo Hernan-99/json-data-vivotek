@@ -2,6 +2,7 @@
   "camaras": {
     "ip_y_box": {
       "tipo": "Cámaras IP y Box",
+      "imagen_referencia": "https://i.ibb.co/7tfRWbg/ip8160.png",
       "modelos": [
         {
           "id": 1,
