@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Lista de Cámaras Gran Angular</h1>
+    <div id="camaras-container"></div>
+
+    <script>
+      const d = document;
+      const url = "https://json-data-vivotek.vercel.app/data.json";
+      const container = d.getElementById("camaras-container");
+
+      fetch(url)
+        .then((res) => {
+          if (!res.ok) {
+            throw new Error("Error al obtener el JSON");
+          }
+          return res.json();
+        })
+        .then((data) => {
+          // Accedemos a los modelos de gran angular
+          const modelos = data.camaras.gran_angular.modelos;
+
+          // Iteramos sobre los modelos y los mostramos en el HTML
+          modelos.forEach((modelo) => {
+            const item = d.createElement("div");
+            item.innerHTML = `
+              <img src="${modelo.img}" alt="${modelo.nombre}" width="200">
+              <h3>${modelo.nombre}</h3>
+              <p>${modelo.descripcion}</p>
+            `;
+            container.appendChild(item);
+          });
+        })
+        .catch((error) => console.error("Error:", error));
+    </script>
+  </body>
+</html>

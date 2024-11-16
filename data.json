@@ -5,18 +5,31 @@
       "modelos": [
         {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/7tfRWbg/ip8160.png",
           "nombre": "Cámara IP Vivotek ip8160",
-          "descripcion": "2MP, 8M IR, AEC, PoE"
+          "descripcion": "2MP, 8M IR, AEC, PoE",
+          "caracteristicas_principales": {
+            "fps": "30 fps @ 1920x1080",
+            "iluminadores": "Iluminadores IR incorporados de hasta 8 metros.",
+            "tecnologia": "Tecnología IR inteligente para evitar la sobreexposición",
+            "smart": "Smart Stream II para optimizar la eficiencia del ancho de banda",
+            "microfono": "Micrófono y altavoz incorporados para audio bidireccional",
+            "cancelacion_eco": "Cancelación de eco acústico (AEC) para optimizar el sistema de sonido",
+            "poe": "Built-in 802.3af Cumple PoE",
+            "ranura": "Ranura para tarjeta MicroSD / SDHC / SDXC incorporada para almacenamiento a bordo",
+            "diseño": "Diseño compacto",
+            "trend": "Trend Micro IoT Security dentro del período de garantía estándar"
+          }
         }
       ]
     },
+
     "gran_angular": {
       "tipo": "Cámaras Gran Angular",
       "modelos": [
         {
           "id": 1,
-          "img": "https://i.ibb.co/gTHC0PY/ms9390-hv.webp",
+          "img": "https://i.ibb.co/XWv7Hc2/ms9390-hv-1.png",
           "nombre": "MS9390-EHV-V2",
           "descripcion": "Cámara de red panorámica multisensor",
           "caracteristicas_principales": {
@@ -40,7 +53,7 @@
         },
         {
           "id": 2,
-          "img": "",
+          "img": "https://i.ibb.co/fMxNXc9/fe9192-h-white-300x300px.png",
           "nombre": "FE9192-H",
           "descripcion": "Cámara IP ojo de pez",
           "caracteristicas_principales": {
@@ -58,7 +71,7 @@
         },
         {
           "id": 3,
-          "img": "",
+          "img": "https://i.ibb.co/mXF9CJ0/fe9380-hv-1.png",
           "nombre": "FE9391-EHV V2",
           "descripcion": "Cámara IP ojo de pez",
           "caracteristicas_principales": {
@@ -77,7 +90,7 @@
         },
         {
           "id": 4,
-          "img": "",
+          "img": "https://i.ibb.co/dJLKDqY/FE9180-H-V2.png",
           "nombre": "FE9180-H-V2",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -97,7 +110,7 @@
         },
         {
           "id": 5,
-          "img": "",
+          "img": "https://i.ibb.co/mXF9CJ0/fe9380-hv-1.png",
           "nombre": "Cámara IP ojo de pez",
           "descripcion": "FE9382-EHV-v2",
           "caracteristicas_principales": {
@@ -118,7 +131,7 @@
         },
         {
           "id": 6,
-          "img": "",
+          "img": "https://i.ibb.co/Vxjk93C/CC9381-HV.png",
           "nombre": "CC9381-HV",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -143,7 +156,7 @@
         },
         {
           "id": 7,
-          "img": "",
+          "img": "https://i.ibb.co/42Mrx5g/FE9381-EHV.webp",
           "nombre": "FE9381-EHV",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -166,7 +179,7 @@
         },
         {
           "id": 8,
-          "img": "",
+          "img": "https://i.ibb.co/XWv7Hc2/ms9390-hv-1.png",
           "nombre": "MS9390-HV",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -189,7 +202,7 @@
         },
         {
           "id": 9,
-          "img": "",
+          "img": "https://i.ibb.co/qRnG1Rp/af5108.png",
           "nombre": "AF5108",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -209,7 +222,7 @@
         },
         {
           "id": 10,
-          "img": "",
+          "img": "https://i.ibb.co/DkyM7Py/cc8371-hv.png",
           "nombre": "CC8371-HV",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -239,7 +252,7 @@
         },
         {
           "id": 11,
-          "img": "",
+          "img": "https://i.ibb.co/8j4YGqL/fe9191-h-v2.png",
           "nombre": "FE9191-H-v2",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -258,7 +271,7 @@
         },
         {
           "id": 12,
-          "img": "",
+          "img": "https://i.ibb.co/TM9yNT1/fe8181.png",
           "nombre": "FE9182-H",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -281,6 +294,26 @@
           "especificaciones_tecnicas": {
             "data_pdf": ""
           }
+        },
+        {
+          "id": 13,
+          "img": "",
+          "nombre": "CC8160",
+          "descripcion": "",
+          "caracteristicas_principales": {
+            "sensor": "Sensor CMOS de 2 megapíxeles",
+            "vista": "Vista panorámica horizontal de 180 °",
+            "diseño": "Diseño compacto y de bajo perfil",
+            "fps": "30 fps a 1920 x 1080",
+            "smart": "Smart Stream II para optimizar la eficiencia del ancho de banda",
+            "wdr": "WDR mejorado",
+            "onvif": "Admite el estándar ONVIF para simplificar la integración y mejorar la interoperabilidad",
+            "microfono": "Micrófono incorporado",
+            "seguridad": "Seguridad de Trend Micro IoT"
+          },
+          "especificaciones_tecnicas": {
+            "data_pdf": ""
+          }
         }
       ]
     },
@@ -290,7 +323,7 @@
       "modelos": [
         {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/h8GYwR3/ib9387-lpr-v2.png",
           "nombre": "IB9387-LPR",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -311,7 +344,7 @@
         },
         {
           "id": 2,
-          "img": "",
+          "img": "https://i.ibb.co/RSHHrYx/ib9367-eht-v2.png",
           "nombre": "IB9387-LPR-V2",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -336,7 +369,7 @@
       "modelos": [
         {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/RBbZRb3/parlante-ip.png",
           "nombre": "AU-001",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -357,7 +390,7 @@
       "modelos": [
         {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/JkSVMVY/MD9560-H.png",
           "nombre": "MD9560-H",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -379,7 +412,7 @@
         },
         {
           "id": 2,
-          "img": "",
+          "img": "https://i.ibb.co/P15xt5N/NV9311P.png",
           "nombre": "NV9311P",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -406,7 +439,7 @@
       "modelos": [
         {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/Ch2YKFF/sc8131.png",
           "nombre": "SC8131",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -428,7 +461,7 @@
       "modelos": [
         {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/hKrHFyz/TB9330-E-8-MM.png",
           "nombre": "TB9330-E(8MM)",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -451,7 +484,7 @@
         },
         {
           "id": 2,
-          "img": "",
+          "img": "https://i.ibb.co/hKrHFyz/TB9330-E-8-MM.png",
           "nombre": "TB9330-E(19MM)",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -474,7 +507,7 @@
         },
         {
           "id": 3,
-          "img": "",
+          "img": "https://i.ibb.co/hKrHFyz/TB9330-E-8-MM.png",
           "nombre": "TB9331-E(8MM)",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -496,7 +529,7 @@
         },
         {
           "id": 4,
-          "img": "",
+          "img": "https://i.ibb.co/hKrHFyz/TB9330-E-8-MM.png",
           "nombre": "TB9331-E(19MM)",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -524,6 +557,7 @@
       "modelos": [
         {
           "id": 1,
+          "img": "https://i.ibb.co/5YB9B6b/SFP-1000-MM13-02.png",
           "nombre": "SFP-1000-MM13-02",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -541,6 +575,7 @@
         },
         {
           "id": 2,
+          "img": "https://i.ibb.co/z60QJFR/SFP-1000-SM13-10.png",
           "nombre": "SFP-1000-SM13-10",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -558,6 +593,7 @@
         },
         {
           "id": 3,
+          "img": "https://i.ibb.co/z60QJFR/SFP-1000-SM13-10.png",
           "nombre": "SFP-2000-SM13-10",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -575,6 +611,7 @@
         },
         {
           "id": 4,
+          "img": "https://i.ibb.co/z6bkWDd/AW-GEV-267-A.png",
           "nombre": "AW-GEV-267A",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -594,6 +631,7 @@
         },
         {
           "id": 5,
+          "img": "https://i.ibb.co/TT9CkN7/AW-GEV-264-B-370.png",
           "nombre": "AW-GEV-264B-370",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -614,6 +652,7 @@
         },
         {
           "id": 6,
+          "img": "https://i.ibb.co/yPfgJHq/AW-IHT-1271.png",
           "nombre": "AW-IHT-1271",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -634,6 +673,7 @@
         },
         {
           "id": 7,
+          "img": "https://i.ibb.co/z6bkWDd/AW-GEV-267-A.png",
           "nombre": "AW-GTS-287A",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -664,42 +704,50 @@
       "modelos": [
         {
           "id": 1,
-          "nomre": "VS8100-V2",
+          "img": "https://i.ibb.co/58mWsj2/VS8100-V2.webp",
+          "nombre": "VS8100-V2",
           "descripcion": "Video server 1 CH. 30 fps con resolución D1. Multi-Streams. H.264 en tiempo real, compresión MJPEG (códec dual). Smart Stream II. Interfaz RS-485 para control de cámara PTZ. Seguridad de IoT de Trend Micro. Certificacion NDAA. Alimentación compartida de 12 V CC con cámara analógica. (No incluye fuente)."
         },
         {
           "id": 2,
-          "nomre": "AJ-001",
+          "img": "https://i.ibb.co/MgRSW9k/AJ-001.webp",
+          "nombre": "AJ-001",
           "descripcion": "Joystick. Tres ejes X / Y / Z para control de posicionamiento. 8 x interruptores táctiles de larga duración. Recorrido del joystick: ejes X/Y +/-20., eje Z +/-30. 3 Indicadores leds. Conector USB 2.0. Compatible con: Windows 7/8/10/11 con plug & play, Todos los VIVOTEK NVR, Speed ​​Dome y VSS. Alimentacion por USB (5V DC). (No incluye fuente)."
         },
         {
           "id": 3,
-          "nomre": "600087110G",
+          "img": "https://i.ibb.co/k8ZDL1V/600087110-G.jpg",
+          "nombre": "600087110G",
           "descripcion": "Burbuja para domo. Modelos compatibles: SD9361 y SD9362"
         },
         {
           "id": 4,
-          "nomre": "AC-112",
+          "img": "https://i.ibb.co/z8V41t8/AC-112.jpg",
+          "nombre": "AC-112",
           "descripcion": "Burbuja para domo. Modelos compatibles: SD8333-E, SD8363E, SD8364E,SD83x4E,SD83x6E"
         },
         {
           "id": 5,
-          "nomre": "BEL-26780",
+          "img": "https://i.ibb.co/6XjTMgR/BEL-26780.webp",
+          "nombre": "BEL-26780",
           "descripcion": "Fuente de alimentacion SW 48VCC 0,5A POE"
         },
         {
           "id": 6,
-          "nomre": "BEL-26794",
+          "img": "https://i.ibb.co/mcKXjK1/BEL-26794.webp",
+          "nombre": "BEL-26794",
           "descripcion": "Fuente de alimentacion SW 48VCC 1A POE"
         },
         {
           "id": 7,
-          "nomre": "SM048-48125",
+          "img": "https://i.ibb.co/41hXqPZ/BEL-26780.webp",
+          "nombre": "SM048-48125",
           "descripcion": "Fuente de alimentacion SW 48VCC 1,25A POE"
         },
         {
           "id": 8,
-          "nomre": "AM-529",
+          "img": "https://i.ibb.co/j8F8TYM/am-529.webp",
+          "nombre": "AM-529",
           "descripcion": "Montaje de adaptador para domo de alta velocidad"
         }
       ]
@@ -710,21 +758,25 @@
       "modelos": [
         {
           "id": 1,
+          "img": "https://i.ibb.co/sWcvqZJ/Cyber-Security.webp",
           "nombre": "Cyber Security",
           "descripcion": "Licencia de CiberSeguridad. La licencia es vitalicia. Protección multicapa con Trend Micro IoT Security. Gestión de alarmas de ciberseguridad con alertas instantáneas. Informe de eventos de ciberseguridad con panel interactivo ( NO COMPATIBLE CON MODELO IB9369)."
         },
         {
           "id": 2,
+          "img": "https://i.ibb.co/DfTsQvW/VSS-Pro-con-NVR-embebido.png",
           "nombre": "VSS Pro con NVR embebido",
           "descripcion": "Software de gestión y grabación VAST Security Station (VSS), impulsado por IA. Valor por canal de camaras conectadas a NVR Vivotek. Soporta hasta 22.400 ch por sistema y hasta 320 ch por servidor. Soporta Busqueda por atributo, Deep Search, Smart VCA, seguimiento inteligente y Re-search. Compatible con ONVIF y RTSP. Acepta servidor virtual (solo compatible con VMware y Microsoft Hyper-V)."
         },
         {
           "id": 3,
+          "img": "https://i.ibb.co/DfTsQvW/VSS-Pro-con-NVR-embebido.png",
           "nombre": "VSS Standard",
           "descripcion": "Software de gestión y grabación VAST Security Station (VSS), impulsado por IA. Viene con 8 ch free. Soporta hasta 128 ch por sistema y por servidor. Soporta Busqueda por atributo, Deep Search, Smart VCA y seguimiento inteligente. Compatible con ONVIF y RTSP. (No compatible con servidor virtual)."
         },
         {
           "id": 4,
+          "img": "https://i.ibb.co/DfTsQvW/VSS-Pro-con-NVR-embebido.png",
           "nombre": "VSS Professional",
           "descripcion": "Software de gestión y grabación VAST Security Station (VSS), impulsado por IA. Soporta hasta 22.400 ch por sistema y hasta 320 ch por servidor. Soporta Busqueda por atributo, Deep Search, Smart VCA, seguimiento inteligente y Re-search. Compatible con ONVIF y RTSP. Acepta servidor virtual (solo compatible con VMware y Microsoft Hyper-V)."
         }
@@ -736,7 +788,7 @@
       "modelos": [
         {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/W68Dw1s/AB6117-HP-IP9171-HP.webp",
           "nombre": "AB5166",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -755,7 +807,7 @@
         },
         {
           "id": 2,
-          "img": "",
+          "img": "https://i.ibb.co/W68Dw1s/AB6117-HP-IP9171-HP.webp",
           "nombre": "AB6117-HP (IP9171-HP)",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -776,7 +828,7 @@
         },
         {
           "id": 3,
-          "img": "",
+          "img": "https://i.ibb.co/Fx94Yqf/ip8160.png",
           "nombre": "ip8160",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -798,7 +850,7 @@
         },
         {
           "id": 4,
-          "img": "",
+          "img": "https://i.ibb.co/x79ZXMH/AB5396A.webp",
           "nombre": "AB5396A",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -819,7 +871,7 @@
         },
         {
           "id": 5,
-          "img": "",
+          "img": "https://i.ibb.co/HYmKSqN/AB5376-IB8367.webp",
           "nombre": "AB5376 (IB8367)",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -840,7 +892,7 @@
         },
         {
           "id": 6,
-          "img": "",
+          "img": "https://i.ibb.co/HNw1qvK/ab6317-ht.png",
           "nombre": "AB6317-HT",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -861,7 +913,7 @@
         },
         {
           "id": 7,
-          "img": "",
+          "img": "https://i.ibb.co/smXxrTG/ib9367-ht.jpg",
           "nombre": "IB9367-HT",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -882,7 +934,7 @@
         },
         {
           "id": 8,
-          "img": "",
+          "img": "https://i.ibb.co/3ry0WzM/AB5328-F3-IB8382-F3.webp",
           "nombre": "AB5328-F3 (IB8382-F3)",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -903,7 +955,7 @@
         },
         {
           "id": 9,
-          "img": "",
+          "img": "https://i.ibb.co/smXxrTG/ib9367-ht.jpg",
           "nombre": "IB9365-HT",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -925,7 +977,7 @@
         },
         {
           "id": 10,
-          "img": "",
+          "img": "https://i.ibb.co/C8TYR40/IB9365-EHTV-V2.webp",
           "nombre": "IB9391-EHTV-V2",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -946,7 +998,7 @@
         },
         {
           "id": 11,
-          "img": "",
+          "img": "https://i.ibb.co/n89SstX/IB9369.jpg",
           "nombre": "IB9369",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -965,7 +1017,7 @@
         },
         {
           "id": 12,
-          "img": "",
+          "img": "https://i.ibb.co/Bnp13KS/IB9368-HT.png",
           "nombre": "IB9380-H",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -985,7 +1037,7 @@
         },
         {
           "id": 13,
-          "img": "",
+          "img": "https://i.ibb.co/Bnp13KS/IB9368-HT.png",
           "nombre": "IB9368-HT",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1006,7 +1058,7 @@
         },
         {
           "id": 14,
-          "img": "",
+          "img": "https://i.ibb.co/B3P1vr6/IB9389-EH-V2.png",
           "nombre": "IB9389-EH V2",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1024,7 +1076,7 @@
         },
         {
           "id": 15,
-          "img": "",
+          "img": "https://i.ibb.co/7YwGRhK/IB9388-HT.png",
           "nombre": "IB9388-HT",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1045,7 +1097,7 @@
         },
         {
           "id": 16,
-          "img": "",
+          "img": "https://i.ibb.co/tKTG4yD/IB9387-HT-A.png",
           "nombre": "IB9387-HT-A",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1067,7 +1119,7 @@
         },
         {
           "id": 17,
-          "img": "",
+          "img": "https://i.ibb.co/Bnp13KS/IB9368-HT.png",
           "nombre": "IB9388-HT",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1088,7 +1140,7 @@
         },
         {
           "id": 18,
-          "img": "",
+          "img": "https://i.ibb.co/C8TYR40/IB9365-EHTV-V2.webp",
           "nombre": "IB9365-EHTV-V2",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1115,7 +1167,7 @@
       "modelos": [
         {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/j3Sp4yr/sd9362-ehl.png",
           "nombre": "SD9362-EHL",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1136,7 +1188,7 @@
         },
         {
           "id": 2,
-          "img": "",
+          "img": "https://i.ibb.co/YX3h7CB/sd9384-ehl-500px.png",
           "nombre": "SD9368-EHL",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1156,7 +1208,7 @@
         },
         {
           "id": 3,
-          "img": "",
+          "img": "https://i.ibb.co/cFGH3fB/sd9161-h-v2.png",
           "nombre": "SD9161-H-V2",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1174,7 +1226,7 @@
         },
         {
           "id": 4,
-          "img": "",
+          "img": "https://i.ibb.co/WzWJ4Yx/fd9369-1.png",
           "nombre": "FD9369",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1193,7 +1245,7 @@
         },
         {
           "id": 5,
-          "img": "",
+          "img": "https://i.ibb.co/tzhxCq2/FD9368-HTV.png",
           "nombre": "FD9380-H",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1213,7 +1265,7 @@
         },
         {
           "id": 7,
-          "img": "",
+          "img": "https://i.ibb.co/t2vGzmh/ad5166a.png",
           "nombre": "AD5166A (FD8166A)",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1234,7 +1286,7 @@
         },
         {
           "id": 8,
-          "img": "",
+          "img": "https://i.ibb.co/r56kkgF/fd8369a-v.png",
           "nombre": "FD8369A-V",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1259,7 +1311,7 @@
         },
         {
           "id": 9,
-          "img": "",
+          "img": "https://i.ibb.co/r56kkgF/fd8369a-v.png",
           "nombre": "AD5196A (FD8169A)",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1280,7 +1332,7 @@
         },
         {
           "id": 10,
-          "img": "",
+          "img": "https://i.ibb.co/kS9PV6k/vivotek-fd8367-v-231x300.jpg",
           "nombre": "FD8367A-V",
           "descripcion": "Ya no se fabrica",
           "caracteristicas_principales": {},
@@ -1290,7 +1342,7 @@
         },
         {
           "id": 11,
-          "img": "",
+          "img": "https://i.ibb.co/tzhxCq2/FD9368-HTV.png",
           "nombre": "FD9368-HTV",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1312,7 +1364,7 @@
         },
         {
           "id": 12,
-          "img": "",
+          "img": "https://i.ibb.co/r56kkgF/fd8369a-v.png",
           "nombre": "FD9389-EHV-V2",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1330,7 +1382,7 @@
         },
         {
           "id": 13,
-          "img": "",
+          "img": "https://i.ibb.co/tzhxCq2/FD9368-HTV.png",
           "nombre": "FD9388-HTV",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1352,7 +1404,7 @@
         },
         {
           "id": 14,
-          "img": "",
+          "img": "https://i.ibb.co/8m2NjFq/sd9394-ehl.png",
           "nombre": "SD9394-EHL",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1377,7 +1429,7 @@
       "modelos": [
         {
           "id": 1,
-          "img": "",
+          "img": "https://i.ibb.co/KxCCpv9/nd9441.png",
           "nombre": "ND9441",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1398,7 +1450,7 @@
         },
         {
           "id": 2,
-          "img": "",
+          "img": "https://i.ibb.co/Byz5Jr6/nd8212w.png",
           "nombre": "ND8212W",
           "descripcion": "",
           "caracteristicas_principales": {
@@ -1419,7 +1471,7 @@
         },
         {
           "id": 3,
-          "img": "",
+          "img": "https://i.ibb.co/KKnMwWV/nd9541.png",
           "nombre": "ND9541",
           "descripcion": "",
           "caracteristicas_principales": {
