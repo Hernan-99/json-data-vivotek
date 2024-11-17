@@ -1451,7 +1451,7 @@
     "nvr": {
       "tipo": "NVR",
       "imagen_referencia": "https://i.ibb.co/Byz5Jr6/nd8212w.png",
-      "slug": "productos/modelos_nvr",
+      "slug": "modelos_nvr",
       "modelos": [
         {
           "id": 1,
