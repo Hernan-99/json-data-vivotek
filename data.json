@@ -1,7 +1,6 @@
 {
   "camaras": {
     "ip_y_box": {
-      "id": 1,
       "tipo": "Cámaras IP y Box",
       "imagen_referencia": "https://i.ibb.co/Fx94Yqf/ip8160.png",
       "slug": "camaras_ip_box",
@@ -28,7 +27,6 @@
     },
 
     "gran_angular": {
-      "id": 2,
       "tipo": "Cámaras Gran Angular",
       "imagen_referencia": "https://i.ibb.co/XWv7Hc2/ms9390-hv-1.png",
       "slug": "camaras_gran_angular",
@@ -325,7 +323,6 @@
     },
 
     "kit_lectura_patentes": {
-      "id": 3,
       "tipo": "Kit Lectura de Patentes",
       "imagen_referencia": "https://i.ibb.co/h8GYwR3/ib9387-lpr-v2.png",
       "slug": "camaras_lectura_patentes",
@@ -374,7 +371,6 @@
     },
 
     "parlante_voz_ip": {
-      "id": 4,
       "tipo": "Parlante de Voz IP",
       "imagen_referencia": "https://i.ibb.co/RBbZRb3/parlante-ip.png",
       "slug": "parlante_voz_ip",
@@ -398,7 +394,6 @@
     },
 
     "solucion_movil": {
-      "id": 5,
       "tipo": "Solución Movil",
       "imagen_referencia": "https://i.ibb.co/JkSVMVY/MD9560-H.png",
       "slug": "solucion_movil",
@@ -450,7 +445,6 @@
     },
 
     "reconocimiento_facial": {
-      "id": 6,
       "tipo": "Reconocimiento Facial",
       "imagen_referencia": "https://i.ibb.co/Ch2YKFF/sc8131.png",
       "slug": "camaras_reconocimiento_facial",
@@ -475,7 +469,6 @@
     },
 
     "camaras_termicas": {
-      "id": 7,
       "tipo": "Cámaras Termicas",
       "imagen_referencia": "https://i.ibb.co/hKrHFyz/TB9330-E-8-MM.png",
       "slug": "camaras_termicas",
@@ -574,7 +567,6 @@
     },
 
     "switches": {
-      "id": 8,
       "tipo": "Switches",
       "imagen_referencia": "https://i.ibb.co/z60QJFR/SFP-1000-SM13-10.png",
       "slug": "switches",
@@ -724,7 +716,6 @@
     },
 
     "accesorios": {
-      "id": 9,
       "tipo": "Accesorios",
       "imagen_referencia": "https://i.ibb.co/MgRSW9k/AJ-001.webp",
       "slug": "accesorios",
@@ -781,7 +772,6 @@
     },
 
     "cms": {
-      "id": 10,
       "tipo": "CMS",
       "imagen_referencia": "https://i.ibb.co/DfTsQvW/VSS-Pro-con-NVR-embebido.png",
       "slug": "cms",
@@ -814,7 +804,6 @@
     },
 
     "bullet": {
-      "id": 11,
       "tipo": "Camaras Bullet",
       "imagen_referencia": "https://i.ibb.co/HNw1qvK/ab6317-ht.png",
       "slug": "camaras_bullet",
@@ -1196,7 +1185,6 @@
     },
 
     "camaras_domo": {
-      "id": 12,
       "tipo": "Cámaras Domo",
       "imagen_referencia": "https://i.ibb.co/cFGH3fB/sd9161-h-v2.png",
       "slug": "camaras_domo",
@@ -1461,7 +1449,6 @@
     },
 
     "nvr": {
-      "id": 13,
       "tipo": "NVR",
       "imagen_referencia": "https://i.ibb.co/Byz5Jr6/nd8212w.png",
       "slug": "productos/modelos_nvr",
@@ -1522,66 +1509,6 @@
             "raid": "RAID 0, 1, 5 compatible para evitar la pérdida de datos de grabación",
             "exploradores": "Múltiples navegadores compatibles: IE, Chrome y Firefox tanto en Windows como en MacOS",
             "soporta": "Soporta solución de conteo VCA"
-          },
-          "especificaciones_tecnicas": {
-            "data_pdf": ""
-          }
-        }
-      ]
-    },
-
-    "domos_fijos": {
-      "tipo": "Domos Fijos",
-      "modelos": [
-        {
-          "id": 1,
-          "img": "",
-          "nombre": "",
-          "descripcion": "",
-          "caracteristicas_principales": {
-            "resolucion": "",
-            "tecnologia_de_compresion": "",
-            "vista_panoramica": "",
-            "fps": "",
-            "alineamiento": "",
-            "smart": "",
-            "carcasa": "",
-            "iluminadores": "",
-            "microfono": "",
-            "snv": "",
-            "reduccion_ruido": "",
-            "renuras": "",
-            "ndaa": ""
-          },
-          "especificaciones_tecnicas": {
-            "data_pdf": ""
-          }
-        }
-      ]
-    },
-
-    "domos_ptz": {
-      "tipo": "Domos PTZ",
-      "modelos": [
-        {
-          "id": 1,
-          "img": "",
-          "nombre": "",
-          "descripcion": "",
-          "caracteristicas_principales": {
-            "resolucion": "",
-            "tecnologia_de_compresion": "",
-            "vista_panoramica": "",
-            "fps": "",
-            "alineamiento": "",
-            "smart": "",
-            "carcasa": "",
-            "iluminadores": "",
-            "microfono": "",
-            "snv": "",
-            "reduccion_ruido": "",
-            "renuras": "",
-            "ndaa": ""
           },
           "especificaciones_tecnicas": {
             "data_pdf": ""
