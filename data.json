@@ -1537,13 +1537,13 @@
   },
   "data_contacto": {
     "distribuidor": "Distribuidor Vivotek en Argentina",
-    "empresa": "C-Team INC SRL",
-    "direccion": "Jorge de Kay 360, Adrogué [1846] BsAs, Argentina",
+    "empresa": "INC SRL",
+    "direccion": "av. 1234",
     "numero_contacto": [
-      "+54 11 6091-7755",
-      "+54 11 6379-9281",
-      "+54 11 6973 1562 "
+      "+54 11 2222-3333",
+      "+54 11 2222-3333",
+      "+54 11 2222-3333 "
     ],
-    "email": "Info@C-Team.com.ar"
+    "email": "email@email.com"
   }
 }
